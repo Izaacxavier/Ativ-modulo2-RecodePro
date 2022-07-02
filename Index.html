@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Voemais - Agencia de viagens</title>
+
+
+    <!-- CSS Bootstrap-->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+
+    <!--link CSS-->
+    <link rel="stylesheet" href="css/style.css">
+    
+    <!--- link do icone font wesome --->
+    <script src="https://kit.fontawesome.com/9563d0a433.js" crossorigin="anonymous"></script>
+    
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <a class="logo" href="Index.html"> <img id="logo2" src="imagens/logo2.svg" alt="logo voemais"></a>
+            <ul class="nav-menu">
+                <li class="item-menu"><a href="Index.html" class="link">Home</a></li>
+                <li class="item-menu"><a href="destinos.html" class="link">Destinos</a></li>
+                <li class="item-menu"><a href="Pormocoes.html" class="link">Promoções</a></li>
+                <li class="item-menu"><a href="contatos.html" class="link">Contatos</a></li>
+            </ul>
+            <div class="hamburguer">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+
+            </div>
+        </nav>
+
+    </header>
+
+    <main class="container">
+        <section class="carousel">
+            <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
+                <div class="carousel-indicators">
+                  <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                  <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                  <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                </div>
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img src="imagens/salvador.jpeg" class="d-block w-100" alt="Foto Salvador">
+                    <div class="carousel-caption d-none d-md-block" style="background-color: rgba(77, 10, 140, 0.4); border-radius: 10px;">
+                      <h5>Viaje para Salvador</h5>
+                      <p>Reserve seu pacote para a Bahia com a VoeMais! Temos diversas opções de pacotes para você!</p>
+                    </div>
+                  </div>
+                  <div class="carousel-item">
+                    <img src="imagens/Rio de janeiro.jpeg" class="d-block w-100" alt="Foto Rio de janeiro">
+                    <div class="carousel-caption d-none d-md-block" style="background-color: rgba(77, 10, 140, 0.4); border-radius: 10px;" >
+                      <h5>Conheça a Cidade maravilhosa</h5>
+                      <p>O Rio de Janeiro nunca deixa de surpreender com os seus encantos e pontos turísticos memoráveis.</p>
+                    </div>
+                  </div>
+                  <div class="carousel-item">
+                    <img src="imagens/Recife.jpeg" class="d-block w-100" alt="Foto salvador">
+                    <div class="carousel-caption d-none d-md-block" style="background-color: rgba(77, 10, 140, 0.4); border-radius: 10px;">
+                      <h5>Conheça Recife</h5>
+                      <p>A combinação de férias e verão pede por passeios pela cidade. Seja na praia, parques ou museus, é possível "turistar" no Recife (PE)com a Voemais</p>
+                    </div>
+                  </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+
+        </section>
+        
+
+        <div class="conteudo-secundario">
+            <section class="card-promocoes">
+                <h1 class="titulo-principal">Programe sua proxima viagem</h1>
+
+                <div class="form">
+                    <!--- barra de pesquisa-->
+                </div>
+                <div class="row row-cols-1 row-cols-md-3 g-4">
+                    <div class="col">
+                      <div class="card" style="width: 400px;">
+                        <img src="imagens/Recife1.svg" class="card-img-top" alt="..." style="box-shadow: 5px 5px 10px rgb(164, 164, 164);">
+                        <div class="card-body" style="box-shadow: 5px 5px 10px rgb(164, 164, 164);">
+                          <h5 class="card-title">Recife</h5>
+                          <p class="card-text">
+                              Pacotes <br> a partir de  </p>
+                              <p class="preco">R$969</p>
+                              <div class="botao"><a href="#"><button id="botao">Aproveite</button></a> </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col">
+                      <div class="card" style="width: 400px;" >
+                        <img src="imagens/rio1.svg" class="card-img-top" alt="..." style="box-shadow: 5px 5px 10px rgb(164, 164, 164);">
+                        <div class="card-body" style="box-shadow: 5px 5px 10px rgb(164, 164, 164);">
+                          <h5 class="card-title">Rio de Janeiro</h5>
+                          <p class="card-text">Pacotes  <br> a partir de </p>
+                          <p class="preco">R$899</p>
+                          <div class="botao"><a href="#"><button id="botao">Aproveite</button></a> </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col">
+                      <div class="card" style="width: 400px;">
+                        <img src="imagens/salvador1.svg" class="card-img-top" alt="Salvador" style="box-shadow: 5px 5px 10px rgb(164, 164, 164);">
+                        <div class="card-body" style="box-shadow: 5px 5px 10px rgb(164, 164, 164);">
+                          <h5 class="card-title">Salvador</h5>
+                          <p class="card-text">Pacotes <br> a partir de</p>
+                          <p class="preco">R$799</p>
+                          <div class="botao"><a href="#"><button id="botao">Aproveite</button></a> </div>
+                          
+                        </div>
+                      </div>
+                    </div>
+                    
+                  </div>
+
+            </section>
+
+        </div>
+
+
+
+
+
+    </main>
+
+    <footer>
+        <div class="footer" >
+            <div class="logo-footer">
+                <img  id="logo-footer" src="imagens/logo/LOGOVOEMAIS copiar copiar.svg" alt="">
+            </div>
+            
+            <p class="conteudo-paragrafo">  Izaac xavier &copy; Recode Pro 2022.</p>
+            
+        </div>
+    </footer>
+            
+
+    <!---link JavaScript -->
+    <script src="js/script.js"></script>
+    <!-- JavaScript Bootstrap -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+    
+</body>
+</html>

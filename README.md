@@ -6,8 +6,6 @@
 
 <p> O projeto é uma agencia de viagens que oferece serviços de hospedagem e passagens aéreas. O site é composto pelas paginas: <b>home, destinos,  Promoções</b> e <b>contato.</b></p>
 
-<h3> Navegue no site em funcionamento: <a href="https://voemaisviagens.netlify.app">Acesse aqui</a></h3>
-
 
 > <h2> 📦 Tecnologias usadas</>
  
@@ -21,5 +19,7 @@
 <li>Javascript</li>
 
 </ul>
+
+<h3> Navegue no site em funcionamento: <a href="https://voemaisviagens.netlify.app">Acesse aqui</a></h3>
 
 

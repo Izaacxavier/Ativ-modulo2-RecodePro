@@ -1,4 +1,4 @@
-<h1 align="center"> 📚Projeto Modulo 2 - Recode Pro 📚</h1>
+<h1 align="center"> 📚 Projeto Modulo 2 - Recode Pro 📚</h1>
 <hr>
 
 <h2> 💻 Sobre o site e suas funcionalidade</h2>

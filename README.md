@@ -4,7 +4,26 @@
 <h2> 💻 Sobre o site e suas funcionalidade</h2>
 
 
-<p> O projeto é uma agencia de viagens que oferece serviços de hospedagem e passagens aéreas. O site é composto pelas paginas: <b>home, destinos,  Promoções</b> e <b>contato,</b> com suas respectivas informaçoes.</p>
+<p> O site é uma agencia de viagens que oferece serviços de hospedagem e passagens aéreas. O projeto é composto pelas paginas: <b>home, destinos,  Promoções</b> e <b>contato,</b> com suas respectivas informações.</p>
+<br>
+
+<table>
+<tr> 
+ <th>Home</th>
+ <th>Destinos</th> 
+ <th>Promoções</th>
+ <th>Contatos</th> 
+ </tr>
+<tr>
+ <td> Apresentaçåo do site e pacotes de viagenm em destaque</td>
+ <td>Pagina contém promoções com descontos para hospedagem e voo</td>
+ <td> Pagina com destinos mais populares, com informações sobre o destino e preços</td> 
+ <td>Pagina com informações para que o cliente entre em<br> contato, contendo email, telefone e endereço. E também um formulario para que o cliente possa preencher e enviar duvidas e pedir informações </td
+ </tr>
+<tr> 
+ 
+ </table>
+ <br>
 
 
  <h2> 📦 Tecnologias usadas</>

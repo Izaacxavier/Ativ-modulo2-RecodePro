@@ -15,7 +15,7 @@
  <th>Contatos</th> 
  </tr>
 <tr>
- <td> Apresentaçåo do site e pacotes de viagenm em destaque</td>
+ <td> Apresentaçåo do site com seção de pacotes de viagenm em destaque</td>
  <td>Pagina contém promoções com descontos para hospedagem e voo</td>
  <td> Pagina com destinos mais populares, com informações sobre o destino e preços</td> 
  <td>Pagina com informações para que o cliente entre em<br> contato, contendo email, telefone e endereço. E também um formulario para que o cliente possa preencher e enviar duvidas e pedir informações </td

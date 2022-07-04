@@ -4,7 +4,7 @@
 <h2> 💻 Sobre o site e suas funcionalidade</h2>
 
 
-<p> O projeto é uma agencia de viagens que oferece serviços de hospedagem e passagens aéreas. O site é composto pelas paginas: <b>home, destinos,  Promoções</b> e <b>contato.</b> com suas respectivas informaçoes.</p>
+<p> O projeto é uma agencia de viagens que oferece serviços de hospedagem e passagens aéreas. O site é composto pelas paginas: <b>home, destinos,  Promoções</b> e <b>contato,</b> com suas respectivas informaçoes.</p>
 
 
  <h2> 📦 Tecnologias usadas</>

@@ -55,7 +55,9 @@
 
 <b>By Izaac Xavier</b>
 
-> <h1> 📦Pseudocodigo em desenvolvimento</h1>
+> <h2> 📦 Pseudocódigo em desenvolvimento</h1>
+ 
+> <p> Pseudocódigo usando conceitos de programação estruturada </p>
 
 
 

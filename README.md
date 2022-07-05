@@ -45,7 +45,13 @@
 <h3 align="center"> Veja o site em funcionamento:</h3>
 <h3 align="center"><a href="https://voemaisviagens.netlify.app">Acesse aqui</a></h3>
 
+
 <hr>
+
+![Captura de Tela 2022-07-05 às 17 45 26](https://user-images.githubusercontent.com/105816549/177420111-e1dadba4-46bb-4840-ad4b-cbec45881eed.png)
+![Captura de Tela 2022-07-05 às 17 48 11](https://user-images.githubusercontent.com/105816549/177420258-857312b3-7a8c-4989-9f23-9d2464198dd0.png)
+![Captura de Tela 2022-07-05 às 18 36 59](https://user-images.githubusercontent.com/105816549/177420793-561794c3-bdd9-48cd-ae08-8c0baadd7ffe.png)
+<br>
 
 <b>By Izaac Xavier</b>
 

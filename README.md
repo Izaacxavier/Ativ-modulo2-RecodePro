@@ -1,7 +1,7 @@
+![banner](https://user-images.githubusercontent.com/105816549/177419562-642d314a-1798-4430-bc37-a1ea866afab5.svg)
+
 <h1 align="center"> 📚 Projeto Modulo 2 - Recode Pro 📚</h1>
 <hr>
-
-![banner](https://user-images.githubusercontent.com/105816549/177418612-c7962f6f-081d-4fa2-bf18-9e52b1083d0e.svg)
 <h2> 💻 Sobre o site e suas funcionalidade</h2>
 
 

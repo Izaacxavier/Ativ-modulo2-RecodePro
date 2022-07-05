@@ -5,7 +5,7 @@
 <h2> 💻 Sobre o site e suas funcionalidade</h2>
 
 
-<p> O site é uma agencia de viagens que oferece serviços de hospedagem e passagens aéreas. O projeto é composto pelas paginas: <b>home, destinos,  Promoções</b> e <b>contato,</b> com suas respectivas informações.</p>
+<p> Voemais é uma agência de viagens que oferece serviços de hospedagem e passagens aéreas. O site é composto pelas paginas: <b>home, destinos,  Promoções</b> e <b>contato,</b> com suas respectivas informações.</p>
 <br>
 
 <table>
@@ -54,5 +54,8 @@
 <br>
 
 <b>By Izaac Xavier</b>
+
+> <h1> 📦Pseudocodigo em desenvolvimento</h1>
+
 
 

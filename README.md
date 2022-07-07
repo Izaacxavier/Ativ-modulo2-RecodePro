@@ -56,9 +56,13 @@
 
 <b>By Izaac Xavier</b>
 
-> <h2> 📦 Pseudocódigo em desenvolvimento</h1>
+<h2> 📦 Pseudocódigo em desenvolvimento</h1>
  
-> <p> Pseudocódigo usando conceitos de programação estruturada </p>
+<p> Pseudocódigo usando conceitos de programação estruturada </p>
+# <p>Foi feito um menu com opções de cadastro, destinos e consutas</p>
+# <p>Cliente pode se cadastrar e consultas sua viagens nas opções do menu</p>
+
+
 
 
 

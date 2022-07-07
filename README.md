@@ -44,10 +44,8 @@
 
 <h3 align="center"> Veja o site em funcionamento:</h3>
 <h3 align="center"><a href="https://voemaisviagens.netlify.app">Acesse aqui</a></h3>
-<<<<<<< HEAD
 
-=======
->>>>>>> d98b082 (atual)
+
 
 <hr>
 
